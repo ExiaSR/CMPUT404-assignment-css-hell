@@ -11,6 +11,12 @@ Read this comic http://theoatmeal.com/comics/design_hell
 
 git clone https://github.com/abramhindle/CMPUT404-assignment-css-hell.git
 
+## Dev
+
+> `$ yarn install`
+
+> `$ yarn start`
+
 ## Notable changes
 
 - Added a couple `div` to the html file to help properly align/center stuffs
