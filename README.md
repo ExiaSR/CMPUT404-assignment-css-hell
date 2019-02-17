@@ -28,11 +28,13 @@ git clone https://github.com/abramhindle/CMPUT404-assignment-css-hell.git
 - https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 - https://codepen.io/efost/pen/rrjvkk
 - https://css-tricks.com/snippets/css/shake-css-keyframe-animation/
+- https://bulma.io
+- Color palettes from [Refactoring UI](https://refactoringui.com/book/)
 
 ## License/Copyright
 
-Textual content is copyright Abram Hindle (C) 2013 under the CC-BY-SA
+Textual content is copyright Michael Lin (C) 2019 under the CC-BY-SA
 4.0 unported license. Attribution should be a hyperlink to the
-repository and (C) 2013 Abram Hindle visibile in the text.
+repository and (C) 2013 Michael Lin visibile in the text.
 
 Code is licensed under the Apache 2.0 license.

@@ -1,0 +1,108 @@
+@import url("https://fonts.googleapis.com/css?family=Lato:300,400,700,900");
+
+body {
+    padding: 0 48px;
+    background-color: #f5f7fa;
+    font-family: "Lato", sans-serif;
+    color: #52606d;
+}
+
+h2 {
+    font-weight: 700;
+    font-size: 2.5rem;
+}
+
+hr {
+    background-color: #cbd2d9;
+    border: none;
+    display: block;
+    height: 2px;
+    margin: 1.5rem 0;
+}
+
+a {
+    color: #98aeeb;
+}
+
+img {
+    border-radius: 10px;
+}
+
+.is-size-2 {
+    font-size: 2.5rem;
+}
+
+.is-size-3 {
+    font-size: 2rem;
+}
+
+.is-size-4 {
+    font-size: 1.5rem;
+}
+
+.is-size-5 {
+    font-size: 1.25rem;
+}
+
+.is-size-6 {
+    font-size: 1rem;
+}
+
+.is-fullheight {
+    min-height: 100vh;
+}
+
+.has-text-grey-light {
+    color: #9aa5b1;
+}
+
+.has-text-weight-light {
+    font-weight: 300;
+}
+
+.has-text-weight-normal {
+    font-weight: 400;
+}
+
+.container {
+    display: flex;
+}
+
+.section {
+    padding: 3rem 1.5rem;
+}
+
+.column {
+    padding: 0.75rem 0.75rem 0.75rem 0;
+}
+
+.intro {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+    text-align: center;
+    margin: 0 25%;
+    font-size: 2rem;
+    font-weight: 300;
+    word-break: break-word;
+}
+
+.experience {
+    margin: 0 10%;
+    line-height: 1.5;
+}
+
+@media (max-width: 768px) {
+    body {
+        padding: 0 0;
+    }
+
+    .intro {
+        margin: 0 5%;
+    }
+
+    .experience {
+        margin: 0 0;
+    }
+}

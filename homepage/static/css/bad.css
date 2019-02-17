@@ -1,0 +1,23 @@
+body {
+    background-color: #647acb;
+    color: #e0e8f9;
+}
+
+a {
+    color: #ef4e4e;
+}
+
+img {
+    border: solid #610316;
+    /* border-color: #610316; . */
+}
+
+.intro {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.experience {
+    font-size: 60px;
+    font-style: italic;
+}
