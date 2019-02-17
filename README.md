@@ -21,11 +21,13 @@ git clone https://github.com/abramhindle/CMPUT404-assignment-css-hell.git
 
 - Added a couple `div` to the html file to help properly align/center stuffs
 - Added a css link tag in `head`
-- https://codepen.io/efost/pen/rrjvkk
+- On hover an image can make it shakes
 
 ## References
 
 - https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+- https://codepen.io/efost/pen/rrjvkk
+- https://css-tricks.com/snippets/css/shake-css-keyframe-animation/
 
 ## License/Copyright
 
